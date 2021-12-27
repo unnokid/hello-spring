@@ -4,8 +4,6 @@ import hello.hellospring.domain.Member;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import repository.MemberRepository;
-import repository.MemoryMemberRepository;
 
 import java.util.List;
 
